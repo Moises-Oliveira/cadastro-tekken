@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+}
+.titulo{
+    text-align: center;
+    align-items: center;
+}  
+
+
+.esquerda{
+    position: absolute;
+    left: 20%;
+    top: 45%;
+}
+.direita{
+   position: absolute;
+   right: 0%;
+   top: 45%;
+
+}
